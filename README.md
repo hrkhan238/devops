@@ -49,5 +49,17 @@
 
 #Your github password will not work in Ubuntu
 1. Go to setting in profile on top right
-2. 
+2. Click on Developers setting
+3. Click on Personal access tokens
+4. Click on Generate new token
+5. Write something on note ex. my-key
+6. Click only on repo rest will be selected
+7. Click generate token
+
+#Your token will be generated
+
+#Copy your token before refreshing your page
+
+Please follow this link for the rest
+
 https://github.com/nouman-atac/docker_web_app
