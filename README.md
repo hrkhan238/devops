@@ -3,6 +3,7 @@
 #To perform version control in git
 
 #Create github account
+
 #Create new repository
 
 1. Create new folder
@@ -17,5 +18,7 @@
 10. Type git push --set-upstream origin master
 
 #If error occured in step 10 then repeat step 11 and 12 by following changes
+
 #git config credential.username "YOUR USERNAME"
+
 #git config credential.username "YOUR EMAIL"
