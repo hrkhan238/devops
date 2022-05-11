@@ -45,3 +45,9 @@
 6. docker --version
 
 
+#To perform Deployment of web application on Docker
+
+#Your github password will not work in Ubuntu
+1. Go to setting in profile on top right
+2. 
+https://github.com/nouman-atac/docker_web_app
