@@ -22,3 +22,11 @@
 #git config credential.username "YOUR USERNAME"
 
 #git config credential.username "YOUR EMAIL"
+
+
+
+#To perform deployment of web application on GitHub
+1. Follow all the above step
+2. Go to your current repository ex. hrkhan238/devops
+3. Click on setting
+4. 
