@@ -29,4 +29,5 @@
 1. Follow all the above step
 2. Go to your current repository ex. hrkhan238/devops
 3. Click on setting
-4. 
+4. Inside setting, Click on pages
+5. 
