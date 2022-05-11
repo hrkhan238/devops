@@ -48,7 +48,7 @@
 #To perform Deployment of web application on Docker
 
 #Your github password will not work in Ubuntu
-1. Go to setting in profile on top right
+1. Go to GitHub setting in profile on top right
 2. Click on Developers setting
 3. Click on Personal access tokens
 4. Click on Generate new token
