@@ -26,8 +26,10 @@
 
 
 #To perform deployment of web application on GitHub
+
 1. Follow all the above step
 2. Go to your current repository ex. hrkhan238/devops
 3. Click on setting
 4. Inside setting, Click on pages
-5. 
+5. Select Branch as master and save
+#Wait for some time then click on the link that will be generated sometime it takes time 
