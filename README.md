@@ -17,7 +17,7 @@
 9. Type git commit "First commit"
 10. Type git push --set-upstream origin master
 
-#If error occured in step 10 then repeat step 11 and 12 by following changes
+#If error occured in step 10 then repeat step 4 and 5 by following changes
 
 #git config credential.username "YOUR USERNAME"
 
