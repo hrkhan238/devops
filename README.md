@@ -34,3 +34,14 @@
 5. Select Branch as master and save
 
 #Wait for some time then click on the link that will be generated sometime it takes time 
+
+
+#To install and configure Docker in Ubuntu
+1. Open terminal in Ubuntu
+2. sudo apt update
+3. sudo apt install -y docker.io
+4. sudo systemctl enable --now docker
+5. sudo usermod -aG docker $USER
+6. docker --version
+
+
