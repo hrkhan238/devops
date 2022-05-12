@@ -63,3 +63,38 @@
 Please follow this link for the rest
 
 https://github.com/nouman-atac/docker_web_app
+
+
+#To perform version control on Mercurial
+
+1) hg (to check Mercurial is installed) / (hg config --edit) to change mercurial.ini
+
+2) mkdir
+
+3) cd repo
+
+4) hg init (for .hg file to be installed in repo)
+
+5) hg clone http://www.selenic.com/repo/hello myHello (Cloning file from Mercurial)
+
+6) cd myHello
+
+8) Now go back to repo by (cd ..)
+
+9) hg clone myHello myHelloClone (you make a directory clone of myHello)
+
+10) Now manually (GUI) go to myHelloClone and access the Hello.c file and make some changes
+
+11) go back to cmd and go to cd myHelloClone and type hg status
+
+12) hg diff (To check the changes made in it)
+
+13) hg commit -m "My first version" hello.c (to commit the changes made earlier in the hello.c file)
+
+14) hg push ..\myHello
+
+15) now go to myHello folder using cd..
+
+16) hg update (to update the changes done in myHello folder)
+
+17) Now manually (GUI) go and check the Hello.c file in myHello. You can see the changes that were done in myHelloClone/Hello.c in myHello/Hello.c
